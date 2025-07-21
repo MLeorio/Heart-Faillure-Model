@@ -7,7 +7,7 @@ Le modèle de Machine Learning atteint une précision de plus de **80 %**.
 
 ## 🌐 Démo en ligne
 
-🖥️ [Voir la démo sur Render](https://ton-url-render.com) *(à modifier après déploiement)*
+🖥️ [Voir la démo sur Render](https://heart-faillure-app.onrender.com/) *(à modifier après déploiement)* 
 
 ---
 
