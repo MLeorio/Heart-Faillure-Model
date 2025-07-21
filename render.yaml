@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: heart-failure-predictor
+    env: python
+    buildCommand: ""
+    startCommand: "python app.py"
+    plan: free
+    autoDeploy: true
